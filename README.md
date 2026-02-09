@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;I'm+Mazen+Elteer;AI+Engineer+%7C+IoT+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile;I'm+Mazen+Elteer;AI+Engineer+%7C+IoT" />
 <br>
 <br>
 
@@ -24,7 +24,7 @@
 
 
 <h1 align="center">Eng Mazen Elteer</h1>
-<h3 align="center">AI Engineer | IoT Developer</h3>
+<h3 align="center">AI Engineer | IoT </h3>
 
 <div align="center">
 
